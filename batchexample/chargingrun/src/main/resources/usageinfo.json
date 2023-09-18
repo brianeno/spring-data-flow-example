@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "firstName": "jane",
+    "lastName": "doe",
+    "minutes": "500",
+    "wattUsage": "1000"
+  },
+  {
+    "id": "2",
+    "firstName": "john",
+    "lastName": "doe",
+    "minutes": "550",
+    "wattUsage": "1500"
+  },
+  {
+    "id": "3",
+    "firstName": "brian",
+    "lastName": "eno",
+    "minutes": "600",
+    "wattUsage": "1550"
+  },
+  {
+    "id": "4",
+    "firstName": "roger",
+    "lastName": "sams",
+    "minutes": "650",
+    "wattUsage": "1500"
+  },
+  {
+    "id": "5",
+    "firstName": "lisa",
+    "lastName": "thompson",
+    "minutes": "700",
+    "wattUsage": "1500"
+  }
+]
