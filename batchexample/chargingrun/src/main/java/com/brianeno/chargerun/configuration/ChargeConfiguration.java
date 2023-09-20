@@ -85,5 +85,4 @@ public class ChargeConfiguration {
 	ItemProcessor<Usage, ChargeSession> billProcessor() {
 		return new ChargeBillProcessor();
 	}
-
 }

@@ -20,7 +20,7 @@ class ChargeSetupTaskApplicationTests {
 		JdbcTemplate jdbcTemplate = new JdbcTemplate(this.dataSource);
 		int result = jdbcTemplate.queryForObject(
 				"SELECT COUNT(*) FROM CHARGING_SESSION", Integer.class);
-		assertThat(result > 0);
+		assertThat(result > 0); // greater than as records added
 	}
 
 }
